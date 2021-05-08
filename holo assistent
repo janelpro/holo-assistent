@@ -1,6 +1,6 @@
 '''
-    Description:
-    Create your own virtual assistant with python.
+    Description:hello my name is holo and my work is assistent
+    .
     Author: AlejandroV
     Version: 1.0
     Video: https://youtu.be/8WKjX0dbh4E
@@ -14,7 +14,7 @@ import datetime
 import wikipedia
 
 # name of the virtual assistant
-name = 'cortana'
+name = 'holo'
 
 # your api key
 key = 'YOUR_API_KEY_HERE'
@@ -34,7 +34,7 @@ engine.setProperty('voice', voices[0].id)
 engine. setProperty('rate', 178)
 engine.setProperty('volume', 0.7)
 
-def talk(text):
+def talk(text):hello my name is holo
     '''
         here, virtual assistant can talk
     '''
